@@ -1,2 +1,4 @@
-# IntroduÃÃ£o a CiÃªncias CompuÃÃ£o Python - Coursera
-* cÃ³digos dos execÃ­cios do cuso
+# Introdução à Ciências Computação Python - Coursera
+
+
+* exercícios do curso
